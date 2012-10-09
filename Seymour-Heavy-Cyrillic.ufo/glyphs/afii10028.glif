@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10028" format="1">
+  <advance width="2332"/>
+  <unicode hex="041A"/>
+  <outline>
+    <component base="K"/>
+    <contour>
+      <point x="1166" y="1465" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

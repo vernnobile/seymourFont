@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="1">
+  <advance width="1363"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="1209" y="1452" type="curve"/>
+      <point x="1154" y="1450"/>
+      <point x="1097" y="1447"/>
+      <point x="1043" y="1447" type="curve"/>
+      <point x="574" y="1408" type="line"/>
+      <point x="514" y="1408"/>
+      <point x="458" y="1406"/>
+      <point x="405" y="1401" type="curve"/>
+      <point x="408" y="1349"/>
+      <point x="408" y="1296"/>
+      <point x="409" y="1247" type="curve"/>
+      <point x="409" y="997.979"/>
+      <point x="407" y="729.314"/>
+      <point x="407" y="689" type="curve" smooth="yes"/>
+      <point x="407" y="413"/>
+      <point x="317" y="274"/>
+      <point x="96" y="236" type="curve"/>
+      <point x="203" y="21"/>
+      <point x="285" y="-109"/>
+      <point x="298" y="-129" type="curve"/>
+      <point x="694" y="-96"/>
+      <point x="954" y="25"/>
+      <point x="1105" y="284" type="curve"/>
+      <point x="1175" y="402"/>
+      <point x="1177" y="569"/>
+      <point x="1191" y="854" type="curve" smooth="yes"/>
+      <point x="1214" y="1315" type="line"/>
+      <point x="1213" y="1364"/>
+      <point x="1213" y="1409"/>
+    </contour>
+    <contour>
+      <point x="682" y="1465" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>
